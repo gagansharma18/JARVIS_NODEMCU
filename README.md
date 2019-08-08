@@ -14,3 +14,6 @@ D8 => GPIO15
 # ARRAY
 [5,4,0,2,14,12,13,15]
 int myPins[] = {5,4,0,2,14,12,13,15};
+
+# HTTPS
+https://www.onetransistor.eu/2019/04/https-server-on-esp8266-nodemcu.html
